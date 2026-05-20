@@ -55,11 +55,20 @@ A Power BI dashboard analyzing how the **Russia-Ukraine War (2022)** and **Iran-
 ```
 ├── War_Economy_Dashboard.pbix
 ├── War_Economy_PowerBI_Dataset.xlsx
-└── screenshots/
-    ├── page1.png
-    ├── page2.png
-    └── page3.png
 ```
+## 📸 Dashboard Screenshots
+
+### Page 1 — Global Oil & War Impact
+<img width="1163" height="656" alt="image" src="https://github.com/user-attachments/assets/3ef58d25-c1b1-44be-8190-9970d5620861" />
+
+
+### Page 2 — India LPG Crisis
+<img width="1162" height="650" alt="image" src="https://github.com/user-attachments/assets/e7392414-6d03-40cf-ba69-7ce8446bfc1e" />
+
+
+### Page 3 — Global Economic Impact
+<img width="1161" height="650" alt="image" src="https://github.com/user-attachments/assets/c1a38daa-701b-4b11-aae0-322f598100d5" />
+
 
 ---
 
